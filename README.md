@@ -1,5 +1,9 @@
 # 💫 About Me:
-Soy Agustín Pira, un apasionado del análisis de datos, autodidacta, de La Calera, Córdoba, Argentina. Tengo experiencia en MySQL, Python y herramientas como Pandas, Matplotlib, Seaborn, Power BI y Tableau. Me especializo en el procesamiento, visualización y modelado de datos.
+Mi interés por el análisis de datos surgió gracias a Football Manager, donde descubrí el poder de los gráficos estadísticos. Esto me llevó a explorar una especialización que combinara estadística y programación, encontrando en el análisis de datos mi camino, en el que me formé de manera autodidacta.
+
+Lo que más me motiva es responder preguntas, identificar patrones y generar valor a través de modelos y análisis que permitan tomar mejores decisiones.
+
+Mi pasión está en alcanzar objetivos, ya sea optimizando procesos o analizando equipos, jugadores y ligas para extraer insights estratégicos que marquen la diferencia.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AgustinPira) 
